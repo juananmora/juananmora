@@ -35,25 +35,6 @@ En los últimos años he puesto un foco especial en la **Inteligencia Artificial
 ➡️ despliegue  
 ➡️ operación y observabilidad  
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎨 Diseño] --> B[💻 Implementación]
-    B --> C[🧪 Pruebas]
-    C --> D[🚀 Despliegue]
-    D --> E[📊 Operación]
-    E --> F[👁️ Observabilidad]
-    F --> A
-    style A fill:#0A66C2,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#1E88E5,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#0A66C2,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#1E88E5,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#0A66C2,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#1E88E5,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-</div>
 
 Mi propósito: **acelerar la entrega de valor**, incrementar la productividad de los equipos y simplificar la adopción de tecnologías complejas mediante soluciones prácticas y reales.
 

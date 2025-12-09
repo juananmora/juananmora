@@ -16,7 +16,7 @@
 
 Con más de **25 años liderando proyectos tecnológicos complejos**, he desarrollado una trayectoria sólida en **DevOps**, **Cloud**, **automatización**, despliegue continuo y metodologías ágiles.
 
-En los últimos años he puesto un foco especial en la **Inteligencia Artificial Generativa (GenAI)** y en la integración de **LLMs (OpenAI, GitHub Copilot, Google AI y más)** en todo el ciclo de vida de desarrollo:
+En los últimos años he puesto un foco especial en la **Inteligencia Artificial Generativa (GenAI)** y en la integración de **LLMs (OpenAI, Claude, GitHub Copilot, Gemini, modelos locales)** en todo el ciclo de vida de desarrollo:
 
 ➡️ diseño  
 ➡️ implementación  
@@ -45,9 +45,12 @@ Mi propósito: **acelerar la entrega de valor**, incrementar la productividad de
 
 ### 🧬 GenAI & Modern AI Engineering
 
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Modelos_Locales-555555?style=for-the-badge&logo=server&logoColor=white">
 
 ### 🔧 Calidad, Observabilidad & Testing
 
@@ -58,6 +61,38 @@ Mi propósito: **acelerar la entrega de valor**, incrementar la productividad de
 <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge">
 
 </div>
+
+---
+
+## 🧬 **Mi rol en IA (en detalle)**
+
+### 🤖✨ Inteligencia Artificial Generativa & Ingeniería de IA Moderna
+
+Uso avanzado de **LLMs** en todas las fases del ciclo de vida del software:  
+**diseño, desarrollo, pruebas, documentación, seguridad, operación y CI/CD**.
+
+Trabajo con múltiples modelos y plataformas para crear **soluciones reales**, integradas con entornos DevOps modernos.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white">  
+<img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white">  
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white">  
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">  
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=linux&logoColor=white">  
+<img src="https://img.shields.io/badge/Modelos_Locales-444444?style=for-the-badge&logo=server&logoColor=white">  
+
+</div>
+
+### ⚡ **Qué aporto en IA**
+- Creación y orquestación de **agentes autónomos** aplicados a DevOps, CI/CD y calidad.  
+- Integración de IA en plataformas cloud y pipelines reales.  
+- Diseño de **prompts avanzados**, patrones de prompting y agentes especializados.  
+- Generación automática de documentación, QA, tests y análisis de código.  
+- Evaluación continua y métricas objetivas de rendimiento de modelos.  
+
+> **La IA no sustituye a los desarrolladores: los amplifica.  
+> Mi objetivo es transformar cada equipo en un equipo aumentado.**
 
 ---
 
@@ -117,10 +152,9 @@ Además del ámbito profesional, me inspiro en actividades que fomentan la disci
 
 ¿Quieres conectar, colaborar o simplemente hablar de tecnología?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanantoniomoraalonso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanantoniomoraalonso/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Seguír-000000?style=for-the-badge&logo=github)](https://github.com/juananmora)
 
 </div>
 
 ---
-

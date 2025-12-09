@@ -43,14 +43,6 @@ Mi propósito: **acelerar la entrega de valor**, incrementar la productividad de
 <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge">
 
-### 🧬 GenAI & Modern AI Engineering
-
-<img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Modelos_Locales-555555?style=for-the-badge&logo=server&logoColor=white">
 
 ### 🔧 Calidad, Observabilidad & Testing
 

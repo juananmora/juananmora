@@ -31,9 +31,9 @@
 
 </div>
 
-Con más de **25 años liderando proyectos tecnológicos complejos**, he desarrollado una trayectoria sólida en **DevOps**, **Cloud**, **automatización**, despliegue continuo y metodologías ágiles.
+Con más de **25 años de experiencia en la gestión de proyectos tecnológicos de alta complejidad**, he construido una trayectoria sólida en **DevOps**, **Cloud**, **automatización** y **metodologías ágiles**.
 
-En los últimos años he puesto un foco especial en la **Inteligencia Artificial Generativa (GenAI)** y en la integración de **LLMs (OpenAI, Claude, GitHub Copilot, Gemini, modelos locales)** en todo el ciclo de vida de desarrollo:
+En los últimos años he puesto un foco especial en la **Inteligencia Artificial Generativa (GenAI)**, explorando cómo los **LLMs (Large Language Models)** y sus diferentes plataformas —**Google AI**, **GitHub Copilot**, **OpenAI**, entre otras— pueden integrarse en todo el ciclo de vida de las aplicaciones: desde la concepción y diseño, pasando por el desarrollo, pruebas y despliegue, hasta la operación y la observabilidad. Dedico parte de mi tiempo a experimentar y desarrollar **soluciones prácticas** que ayudan a equipos y organizaciones a incrementar la productividad, acelerar la entrega de valor y simplificar la adopción de tecnologías complejas.
 
 <div align="center">
 
@@ -57,11 +57,19 @@ graph LR
 
 <br/>
 
+Cuento con un amplio dominio de las principales plataformas del ecosistema empresarial y de código abierto: **Jenkins**, **GitHub Actions**, **CloudBees CD**, **GitLab CI/CD**, **ArgoCD**, **Backstage**, **Terraform**, **Ansible**, **Harness**, **Tanzu**, **XebiaLabs**, **Docker**, **Kubernetes**, **OpenShift**, así como herramientas de calidad, observabilidad y testing como **Maven**, **Selenium Grid**, **Playwright**, **SonarQube**, **JMeter**, **ElasticSearch**, **Grafana**, **Kibana**, **Nexus**, **TestLink**, entre muchas otras.
+
+Como **Scrum Master** y **líder de proyectos**, promuevo la colaboración, la innovación y la mejora continua, asegurando que los equipos puedan entregar soluciones de forma ágil, segura y alineada con los objetivos estratégicos del negocio.
+
+Mi visión está orientada a aplicar las últimas tendencias tecnológicas —especialmente **GenAI**, **Cloud** y **DevOps**— para generar impacto real en la eficiencia, calidad y velocidad de entrega de las organizaciones.
+
+<br/>
+
 <div align="center">
 
-### 🎯 **Mi propósito**
+### 🎯 **Fuera del ámbito profesional**
 
-**Acelerar la entrega de valor** · **Incrementar la productividad** · **Simplificar tecnologías complejas**
+Encuentro inspiración en deportes como el **montañismo**, el **esquí**, el **mountain bike** y el **running**, que reflejan mi **resiliencia**, **disciplina** y **espíritu competitivo**, valores que también guían mi carrera profesional.
 
 </div>
 
@@ -70,8 +78,6 @@ graph LR
 <div align="center">
 
 ## 🧠 **Áreas de especialización**
-
-<img width="50%" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
 
 </div>
 
@@ -107,11 +113,11 @@ graph LR
 
 ## 🧬 **Mi rol en IA**
 
-<img width="50%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
 ### 🤖✨ Inteligencia Artificial Generativa
 
 </div>
+
+<br/>
 
 Uso avanzado de **LLMs** en todas las fases del ciclo de vida del software:  
 **diseño, desarrollo, pruebas, documentación, seguridad, operación y CI/CD**.
@@ -163,8 +169,6 @@ Trabajo con múltiples modelos y plataformas para crear **soluciones reales**, i
 > **💡 La IA no sustituye a los desarrolladores: los amplifica.**  
 > **🚀 Mi objetivo es transformar cada equipo en un equipo aumentado.**
 
-<img width="40%" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
-
 </div>
 
 ---
@@ -173,9 +177,7 @@ Trabajo con múltiples modelos y plataformas para crear **soluciones reales**, i
 
 ## 🧩 **Mi filosofía de trabajo**
 
-<img width="40%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
-
-<br/><br/>
+<br/>
 
 > *"La tecnología es un habilitador, pero son las personas quienes la convierten en impacto real."*
 
@@ -199,9 +201,7 @@ Como **Scrum Master y líder técnico**, impulso la:
 
 ## 📂 **Proyectos y contribuciones**
 
-<img width="40%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-
-<br/><br/>
+<br/>
 
 | 🚀 Tipo | 🔗 Enlace | 📝 Descripción |
 |-------|---------|------------------|
@@ -217,9 +217,7 @@ Como **Scrum Master y líder técnico**, impulso la:
 
 ## 📊 **Actividad en GitHub**
 
-<img width="40%" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
-
-<br/><br/>
+<br/>
 
 <!-- GitHub Stats Cards -->
 <img src="https://github-readme-stats.vercel.app/api?username=juananmora&show_icons=true&theme=default&hide_border=true&border_radius=15&title_color=0A66C2&icon_color=1E88E5&text_color=333&bg_color=ffffff" width="49%" />
@@ -230,35 +228,6 @@ Como **Scrum Master y líder técnico**, impulso la:
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juananmora&theme=github-light&hide_border=true&area=true&line=0A66C2&point=0A66C2&border_radius=15" width="95%"/>
 
-<br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juananmora&layout=compact&theme=default&hide_border=true&border_radius=15&title_color=0A66C2&text_color=333&bg_color=ffffff" width="45%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏔️ **Intereses personales**
-
-<img width="40%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
-
-<br/><br/>
-
-Además del ámbito profesional, me inspiro en actividades que fomentan la disciplina y la resiliencia:
-
-<br/>
-
-| 🏔️ Montañismo | 🎿 Esquí | 🚴 MTB | 🏃 Running |
-|:-------------:|:--------:|:------:|:-----------:|
-| ![Mountain](https://img.shields.io/badge/🏔️-Naturaleza-success?style=for-the-badge) | ![Ski](https://img.shields.io/badge/🎿-Técnica-informational?style=for-the-badge) | ![MTB](https://img.shields.io/badge/🚴-Resistencia-orange?style=for-the-badge) | ![Running](https://img.shields.io/badge/🏃-Perseverancia-red?style=for-the-badge) |
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30%" />
-
 </div>
 
 ---
@@ -267,9 +236,7 @@ Además del ámbito profesional, me inspiro en actividades que fomentan la disci
 
 ## ✉️ **Contacto**
 
-<img width="40%" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
-
-<br/><br/>
+<br/>
 
 ¿Quieres conectar, colaborar o simplemente hablar de tecnología?
 
@@ -290,7 +257,7 @@ Además del ámbito profesional, me inspiro en actividades que fomentan la disci
 
 **⭐ Si te gusta mi trabajo, no dudes en dejar una estrella en mis repositorios ⭐**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" />
+<br/>
 
 **Hecho con ❤️ y mucho ☕**
 

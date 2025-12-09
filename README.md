@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<p><strong>Hola, Soy Juan Antonio Mora.</strong> Gracias por visitar mi espacio en GitHub 🤓</p>
+<p><strong>Hola, soy Jon.</strong> Gracias por visitar mi espacio en GitHub 🤓</p>
 
 <!-- Visitor Counter and Social Badges -->
 <p>

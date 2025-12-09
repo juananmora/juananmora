@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Professional Banner with gradient background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E88E5&height=200&section=header&text=Juan%20Antonio%20Mora&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20GenAI%20Architect&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E88E5&height=200&section=header&text=Jon%20Mora&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20GenAI%20Architect&descAlignY=55&descSize=20" />
 
 <br/>
 

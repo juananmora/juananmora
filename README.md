@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Hola!+Bienvenido+a+mi+perfil+%F0%9F%91%8B;DevOps+%7C+Cloud+%7C+GenAI+Architect;25%2B+a%C3%B1os+impulsando+la+transformaci%C3%B3n+tecnol%C3%B3gica" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Hola!+Bienvenido+a+mi+perfil+%F0%9F%91%8B;DevOps+%7C+Cloud+%7C+GenAI+Architect;" />
 
 <br/>
 
@@ -80,7 +80,7 @@ Como **Scrum Master y líder técnico**, impulso la:
 
 | 🚀 Tipo | 🔗 Enlace | 📝 Descripción |
 |-------|---------|------------------|
-| 📦 **Repositorio GitHub** | [![Repos](https://img.shields.io/badge/Mis_Repositorios-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/TU_USUARIO?tab=repositories) | Demos, herramientas, integraciones y automatizaciones |
+| 📦 **Repositorio GitHub** | [![Repos](https://img.shields.io/badge/Mis_Repositorios-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/juananmora?tab=repositories) | Demos, herramientas, integraciones y automatizaciones |
 | 🤖 **Experimentos GenAI** | [![AI](https://img.shields.io/badge/GenAI-Labs-0A66C2?style=flat-square&logo=openai&logoColor=white)](#) | Pruebas avanzadas con LLMs y agentes | 
 | ☁️ **Infraestructura & CI/CD** | [![Infra](https://img.shields.io/badge/DevOps-Projects-2E86C1?style=flat-square&logo=kubernetes&logoColor=white)](#) | Pipelines, Kubernetes, Infra as Code |
 
@@ -92,7 +92,7 @@ Como **Scrum Master y líder técnico**, impulso la:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-light&hide_border=true&area=true&line=0A66C2&point=0A66C2" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juananmora&theme=github-light&hide_border=true&area=true&line=0A66C2&point=0A66C2" width="95%"/>
 
 </div>
 
@@ -118,8 +118,8 @@ Además del ámbito profesional, me inspiro en actividades que fomentan la disci
 
 ¿Quieres conectar, colaborar o simplemente hablar de tecnología?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN/)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguír-000000?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanantoniomoraalonso/)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguír-000000?style=for-the-badge&logo=github)](https://github.com/juananmora)
 
 </div>
 

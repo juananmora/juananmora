@@ -56,9 +56,9 @@ Mi propósito: **acelerar la entrega de valor**, incrementar la productividad de
 
 ---
 
-## 🧬 **Mi rol en IA (en detalle)**
+## 🧬 **Mi rol en IA**
 
-### 🤖✨ Inteligencia Artificial Generativa & Ingeniería de IA Moderna
+### 🤖✨ Inteligencia Artificial Generativa
 
 Uso avanzado de **LLMs** en todas las fases del ciclo de vida del software:  
 **diseño, desarrollo, pruebas, documentación, seguridad, operación y CI/CD**.

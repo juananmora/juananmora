@@ -277,7 +277,6 @@ Además del ámbito profesional, me inspiro en actividades que fomentan la disci
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanantoniomoraalonso/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Seguír-000000?style=for-the-badge&logo=github)](https://github.com/juananmora)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juananmora@example.com)
 
 <br/><br/>
 

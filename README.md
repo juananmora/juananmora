@@ -130,7 +130,7 @@ Como **Scrum Master y líder técnico**, impulso la:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juananmora&theme=github-light&hide_border=true&area=true&line=0A66C2&point=0A66C2" width="95%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juananmora&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
